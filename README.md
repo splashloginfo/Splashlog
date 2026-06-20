@@ -1,4 +1,3 @@
-# Splashlog 
 
 ## Privacy Policy
 
